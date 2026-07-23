@@ -4,7 +4,7 @@
  
 ---
  
-1. **Source code is the only source of truth — but it is not the specification.**
+1. **The specification is never the source of truth — only source code is.**
 2. **One up-to-date README.md will always beat dozens of obsolete specs.**
 3. **A code repository is not an issue-tracking system.**
 4. **Source code is not a place for discussions.**
