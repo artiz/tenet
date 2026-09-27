@@ -80,3 +80,20 @@
 8. Nunca concedas a un agente de IA permisos para modificar la infraestructura de producción — sin excepciones.
 9. Haz siempre revisión de código y pruebas manuales antes de fusionar un PR. Tú definiste la funcionalidad, así que debes validarla.
 10. Un agente de IA puede alucinar y fallar — no existe el «mejor modelo».
+
+---
+
+## ไทย
+
+*หลักการสิบประการของการออกแบบที่ minimal และขับเคลื่อนด้วย spec ไม่มี code ไม่มีกระบวนการ มีเพียงข้อความ*
+
+1. spec ไม่มีวันเป็นแหล่งที่มาของความจริง — มีเพียง source code เท่านั้นที่เป็น
+2. README.md ที่เป็นปัจจุบันเพียงฉบับเดียวจะชนะ spec ที่ล้าสมัยหลายสิบฉบับเสมอ
+3. code repository ไม่ใช่ระบบติดตามปัญหา
+4. source code ไม่ใช่ที่สำหรับการถกเถียง
+5. ถ้าคุณไม่สามารถอธิบาย feature ใหม่ได้ภายในห้าประโยค คุณจะล้มเหลว — ไม่มีข้อยกเว้น
+6. ถ้าคุณไม่สามารถอธิบายการออกแบบการ implement ได้ภายในห้าประโยค คุณจะล้มเหลว — ไม่มีข้อยกเว้น
+7. ปรับ framework และเครื่องมือให้เข้ากับ project ของคุณ ไม่ใช่ปรับ project ให้เข้ากับ framework คุณคือเจ้าของ code ของคุณเอง
+8. ห้ามให้สิทธิ์ AI agent แก้ไขโครงสร้างพื้นฐานของ production โดยเด็ดขาด — ไม่มีข้อยกเว้น
+9. ทำ code review และทดสอบด้วยตนเองทุกครั้งก่อน merge PR คุณเป็นคนกำหนด feature ดังนั้นคุณจึงต้องเป็นคนตรวจสอบความถูกต้องเอง
+10. AI agent อาจเกิดอาการหลอนและล้มเหลวได้ — ไม่มีสิ่งที่เรียกว่า “model ที่ดีที่สุด”
