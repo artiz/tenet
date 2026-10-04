@@ -1,6 +1,6 @@
 # TENET
 
-*Ten tenets of minimal, spec-driven design. No code. No process. Just text.*
+*Ten tenets of minimal, AI-driven development. No code. No process. Just text.*
 
 1. The specification is never the source of truth — only source code is.
 2. One up-to-date README.md will always beat dozens of obsolete specs.
@@ -17,7 +17,7 @@
 
 ## Deutsch
 
-*Zehn Grundsätze minimalen, spezifikationsgetriebenen Designs. Kein Code. Kein Prozess. Nur Text.*
+*Zehn Grundsätze minimaler, KI-getriebener Entwicklung. Kein Code. Kein Prozess. Nur Text.*
 
 1. Die Spezifikation ist niemals die Quelle der Wahrheit — das ist allein der Quellcode.
 2. Eine aktuelle README.md schlägt immer Dutzende veralteter Spezifikationen.
@@ -34,7 +34,7 @@
 
 ## Русский
 
-*Десять принципов минимального дизайна, управляемого спецификацией. Без кода. Без процессов. Только текст.*
+*Десять принципов минимальной разработки, управляемой ИИ. Без кода. Без процессов. Только текст.*
 
 1. Спецификация никогда не является источником истины — им является только исходный код.
 2. Один актуальный README.md всегда лучше десятков устаревших спецификаций.
@@ -51,7 +51,7 @@
 
 ## 中文
 
-*极简规范驱动设计的十条信条。没有代码，没有流程，只有文字。*
+*极简 AI 驱动开发的十条信条。没有代码，没有流程，只有文字。*
 
 1. 规范永远不是事实的来源——只有源代码才是。
 2. 一份保持最新的 README.md 永远胜过几十份过时的规范。
@@ -68,7 +68,7 @@
 
 ## Español
 
-*Diez principios de diseño minimalista guiado por especificaciones. Sin código. Sin procesos. Solo texto.*
+*Diez principios de desarrollo minimalista guiado por IA. Sin código. Sin procesos. Solo texto.*
 
 1. La especificación nunca es la fuente de la verdad — solo lo es el código fuente.
 2. Un README.md actualizado siempre vencerá a docenas de especificaciones obsoletas.
